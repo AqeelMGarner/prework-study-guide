@@ -10,7 +10,7 @@ My motivation for building this webpage was to track my knowleage throughout the
 Each section contains notes on HTML, CSS, JavaScript, Git. And when opening the DevTools console, you can see JavaScript running. It will list the topics i've learnt from prework and choose one topic for you to study first.
 
 ## Credits
-"N/A"
+"Not applicable"
 
 ## License
 Please refer to the LICENSE in the repo
